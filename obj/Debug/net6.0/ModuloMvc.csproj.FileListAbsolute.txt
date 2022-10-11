@@ -1,0 +1,8 @@
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.csproj.AssemblyReference.cache
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.AssemblyInfoInputs.cache
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.AssemblyInfo.cs
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.RazorAssemblyInfo.cache
+C:\Users\Vaio\ModuloMvc\obj\Debug\net6.0\ModuloMvc.RazorAssemblyInfo.cs
